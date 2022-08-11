@@ -32,8 +32,8 @@ export default new Vuex.Store({
 
     settings: {
       autoCopy: false,
-      autoStart: true,
-      autoBrowserDownload: true,
+      autoStart: false,
+      autoBrowserDownload: false,
       anim: true,
       defaultTab: 0,
 
